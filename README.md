@@ -1,2 +1,1 @@
-# Vucut-Kitle-Indeksi-Hesaplayan-Program
-# Vucut-Kitle-Indeksi-Hesaplayan-Program
+[patika.dev linkim](https://app.patika.dev/medgicakir)
